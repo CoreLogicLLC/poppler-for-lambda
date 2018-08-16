@@ -64,3 +64,5 @@ tar -C ~/tmp/install/var/task \
     --exclude='include' \
     --exclude='share'   \
     -zcvf ~/tmp/tar/poppler.tar.gz .
+
+ls -lh ~/tmp/tar/poppler.tar.gz
